@@ -1,2 +1,2 @@
 # hello-world
-Project
+Final Project for Script Programming
